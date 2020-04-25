@@ -70,3 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 # Example of react router
 ## Three different links and data rendering on screen
+## Lazy Load a route
